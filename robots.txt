@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anthrosg.github.io/sitemap.html.gz
+Sitemap: https://anthrosg.github.io/app/sitemap.html.gz
+Sitemap: https://anthrosg.github.io/assets/sitemap.html.gz
+Sitemap: https://anthrosg.github.io/css/sitemap.html.gz
+Sitemap: https://anthrosg.github.io/includes/sitemap.html.gz
+Sitemap: https://anthrosg.github.io/item/sitemap.html.gz
+Sitemap: https://anthrosg.github.io/src/sitemap.html.gz
